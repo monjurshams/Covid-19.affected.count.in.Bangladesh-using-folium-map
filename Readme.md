@@ -2,7 +2,7 @@
 
 	
 ## Image of the map:
-![alt text](https://github.com/monjurshams/Practice-Projects/blob/master/Covid-19-affected-count-in-MAP/Image%20of%20map.jpg "Map of Bangladesh with the count of Covid-19 affecteds in districts")
+![alt text](https://github.com/monjurshams/Covid-19.affected.count.in.Bangladesh-using-folium-map/blob/master/Image%20of%20map.jpg "Map of Bangladesh with the count of Covid-19 affecteds in districts")
 
 
 
